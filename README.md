@@ -1,8 +1,11 @@
-# Prepare
+# MERN-Web3-Chart-VerifyLens
+
+![Dashboard](screenshot.jpg)
+## Prepare
 npm install
 
-# Start
+## Start
 npm run dev
 
-# Build
+## Build
 npm run build
